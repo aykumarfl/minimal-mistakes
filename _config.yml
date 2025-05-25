@@ -7,6 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kumarkorps.com" # the base hostname & protocol
 twitter_username: kumarkorps
 github_username: aykumarfl
+minimal_mistakes_skin: sunrise
 
 # Navigation
 main:
